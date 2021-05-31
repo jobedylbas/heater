@@ -1,4 +1,4 @@
-# Aquecedor
+# Aquecedor 🔥
 
 Este projeto é um exemplo de _lex_ e _yacc_ para a questão 2 da recuperação da
 cadeira de Compiladores 2020/2.
